@@ -1,0 +1,27 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 175
+Not Found: /docs
+"GET /docs HTTP/1.1" 404 2427
+"GET /about HTTP/1.1" 301 0
+"GET /about/ HTTP/1.1" 200 95
+Not Found: /main
+"GET /main HTTP/1.1" 404 2427
+"GET / HTTP/1.1" 200 175
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 200
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 216
+"GET / HTTP/1.1" 200 216
+"GET / HTTP/1.1" 200 216
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 216
+"GET /about/ HTTP/1.1" 200 343
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 341
