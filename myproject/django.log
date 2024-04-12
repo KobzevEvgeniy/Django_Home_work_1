@@ -25,3 +25,142 @@ Watching for file changes with StatReloader
 C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\views.py changed, reloading.
 Watching for file changes with StatReloader
 "GET /about/ HTTP/1.1" 200 341
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 216
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 216
+"GET / HTTP/1.1" 200 216
+"GET /about/ HTTP/1.1" 200 341
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 216
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 216
+"GET / HTTP/1.1" 200 216
+"GET /about/ HTTP/1.1" 200 341
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\myproject\settings.py changed, reloading.
+[12/Apr/2024 16:47:01] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 16:47:01] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 16:47:04] INFO [firstapp.views:18] Page "main" is open
+[12/Apr/2024 16:47:04] INFO [django.server:212] "GET / HTTP/1.1" 200 216
+[12/Apr/2024 16:47:04] INFO [django.server:212] "GET / HTTP/1.1" 200 216
+[12/Apr/2024 16:47:11] INFO [firstapp.views:26] Page "about_me" is open
+[12/Apr/2024 16:47:11] INFO [django.server:212] "GET /about/ HTTP/1.1" 200 341
+[12/Apr/2024 16:47:11] INFO [django.server:212] "GET /about/ HTTP/1.1" 200 341
+[12/Apr/2024 16:47:11] INFO [firstapp.views:26] Page "about_me" is open
+[12/Apr/2024 16:47:11] INFO [django.server:212] "GET /about/ HTTP/1.1" 200 341
+[12/Apr/2024 16:47:11] INFO [django.server:212] "GET /about/ HTTP/1.1" 200 341
+[12/Apr/2024 16:48:27] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\polls\middleware.py changed, reloading.
+[12/Apr/2024 16:48:27] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\polls\middleware.py changed, reloading.
+[12/Apr/2024 16:48:28] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 16:48:28] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 22:29:32] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 22:29:32] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 22:29:35] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 22:29:35] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 22:30:21] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 22:30:21] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 22:30:22] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 22:30:22] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 22:30:53] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 22:30:53] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 22:30:54] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 22:30:54] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 22:31:31] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 22:31:31] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 22:31:31] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 22:31:31] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:08:29] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:08:29] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:08:32] INFO [firstapp.views:18] Page "main" is open
+[12/Apr/2024 23:08:32] INFO [django.server:212] "GET / HTTP/1.1" 200 216
+[12/Apr/2024 23:08:32] INFO [django.server:212] "GET / HTTP/1.1" 200 216
+[12/Apr/2024 23:08:40] WARNING [django.request:241] Not Found: /docs
+[12/Apr/2024 23:08:40] WARNING [django.request:241] Not Found: /docs
+[12/Apr/2024 23:08:40] WARNING [django.server:212] "GET /docs HTTP/1.1" 404 2427
+[12/Apr/2024 23:08:40] WARNING [django.server:212] "GET /docs HTTP/1.1" 404 2427
+[12/Apr/2024 23:11:51] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:11:51] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:11:51] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:11:51] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:13:22] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:13:22] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:13:22] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:13:22] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:14:50] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:14:50] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:14:50] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:14:50] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:16:27] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:16:27] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:16:27] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:16:27] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:17:26] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:17:26] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:17:27] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:17:27] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:17:45] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:17:45] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:17:46] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:17:46] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:18:10] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:18:10] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:18:10] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:18:10] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:20:23] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:20:23] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:20:23] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:20:23] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:21:09] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:21:09] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:21:10] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:21:10] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:23:03] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:23:03] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:23:04] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:23:04] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:23:34] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:23:34] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:23:35] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:23:35] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:23:58] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:23:58] INFO [django.utils.autoreload:266] C:\Users\Kobze\PycharmProjects\Django_Home_work_1\myproject\firstapp\models.py changed, reloading.
+[12/Apr/2024 23:23:58] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:23:58] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:42:20] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:42:20] INFO [django.utils.autoreload:668] Watching for file changes with StatReloader
+[12/Apr/2024 23:42:22] INFO [firstapp.views:18] Page "main" is open
+[12/Apr/2024 23:42:22] INFO [django.server:212] "GET / HTTP/1.1" 200 216
+[12/Apr/2024 23:42:22] INFO [django.server:212] "GET / HTTP/1.1" 200 216
+[12/Apr/2024 23:42:27] WARNING [django.request:241] Not Found: /docs
+[12/Apr/2024 23:42:27] WARNING [django.request:241] Not Found: /docs
+[12/Apr/2024 23:42:27] WARNING [django.server:212] "GET /docs HTTP/1.1" 404 2427
+[12/Apr/2024 23:42:27] WARNING [django.server:212] "GET /docs HTTP/1.1" 404 2427
+[12/Apr/2024 23:42:37] INFO [firstapp.views:26] Page "about_me" is open
+[12/Apr/2024 23:42:37] INFO [django.server:212] "GET /about/ HTTP/1.1" 200 341
+[12/Apr/2024 23:42:37] INFO [django.server:212] "GET /about/ HTTP/1.1" 200 341
